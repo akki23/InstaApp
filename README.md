@@ -1,2 +1,2 @@
 # InstaApp
-Isatagram Application
+Istagram Application
